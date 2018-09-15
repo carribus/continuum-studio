@@ -1,0 +1,3 @@
+[submodule "src/lib/continuum-engine"]
+	path = src/lib/continuum-engine
+	url = https://github.com/carribus/continuum-engine
